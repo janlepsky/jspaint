@@ -1,7 +1,5 @@
 FROM node:lts
 
-USER 1000
-
 WORKDIR /app/nestjs
 
 EXPOSE 8080
@@ -9,5 +7,7 @@ EXPOSE 8080
 COPY . /app/nestjs
 
 RUN npm install 
+
+USER 1000
 
 CMD ["npm", "run", "dev"]
