@@ -97,7 +97,7 @@ In other browsers you can still can copy with <kbd>Ctrl+C</kbd>, cut with <kbd>C
 but data copied from JS Paint can only be pasted into other instances of JS Paint.
 External images can be pasted in.
 
-
+testbka
 ## Did you know?
 
 * There's a black and white mode with *patterns* instead of colors in the palette,
